@@ -1,0 +1,8 @@
+{
+    "name": "stream-deutsch-john-wick-kapitel-3-2019-ganzer-film/deutsch",
+    "description": "Ganzer’ John Wick: Kapitel 3 (2019) Film Stream Deutsch ",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
